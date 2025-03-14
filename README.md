@@ -1,6 +1,6 @@
 # Real-time-Chat-App
 
-Live Demo : https://real-time-chat-app-5dqr.onrender.com/login
+Live Demo : https://real-time-chat-app-5dqr.onrender.com
 
 # 🚀 Chat App
 
@@ -20,14 +20,13 @@ A powerful real-time chat application with authentication, theming, and media sh
 ---
 
 ## 📸 Screenshots
-### 🏠 Home Page
-![Home Page](./screenshot/home.png)
+
 
 ### 🔐 Login Page
-![Login Page](./screenshot/login.png)
+![Login Page](./screenshot/image1.png)
 
 ### 📜 Chat Interface
-![Chat Interface](./screenshot/chat.png)
+![Chat Interface](./screenshot/image2.png)
 
 ---
 
@@ -44,8 +43,8 @@ A powerful real-time chat application with authentication, theming, and media sh
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
+git clone https://github.com/DhruvChouksey14/Real-time-Chat-App.git
+cd Realtime-Chat-App
 ```
 
 ### 2️⃣ Set up the environment variables
@@ -77,7 +76,7 @@ npm install
 #### Run backend:
 ```sh
 cd backend
-npm start
+npm run dev
 ```
 
 #### Run frontend:
@@ -89,11 +88,6 @@ npm run dev
 Now visit **http://localhost:5173/** to see your app in action! 🎉
 
 ---
-
-## 📌 Theming (Zustand + DaisyUI)
-- Default theme: `coffee`
-- Change theme via Zustand `useThemeStore`
-- Saves user preference in `localStorage`
 
 ---
 
