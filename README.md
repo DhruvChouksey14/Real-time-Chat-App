@@ -44,7 +44,7 @@ A powerful real-time chat application with authentication, theming, and media sh
 ### 1️⃣ Clone the repository
 ```sh
 git clone https://github.com/DhruvChouksey14/Real-time-Chat-App.git
-cd Realtime-Chat-App
+cd Real-time-Chat-App
 ```
 
 ### 2️⃣ Set up the environment variables
